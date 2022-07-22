@@ -1,0 +1,11 @@
+root = true
+
+#todos los archivos que terminen en  .cs
+[*.cs]
+csharp_new_line_before_open_brace = none
+
+#utilizara el tabulador el caracter  \t
+indent_style = tab 
+
+#usara espacios separador con 2 espacio
+indent_size = 2
