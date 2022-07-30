@@ -19,8 +19,6 @@ namespace Personal.Domain.Event {
 	  NombreCompleto = nombreCompleto;
 	  Tipo = 1;//Tipo;
 	  Tripulacion = tripulacion;
-		
-		
 	}
   }
 }
