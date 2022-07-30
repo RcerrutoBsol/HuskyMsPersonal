@@ -30,7 +30,7 @@ namespace Personal.Application.UseCases.Queries.Personas.GetPersonaById {
 		  //Nombre = objPersona.NombreCompleto,
 		  //Tipo = objPersona.Tipo,
 		  //Tripulacion = objPersona.Tripulacion,
-		//};
+		};
 
 		//foreach (var item in objPersona.Regis)
 		//{
