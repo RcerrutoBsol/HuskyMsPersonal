@@ -26,11 +26,12 @@ namespace Personal.Application.UseCases.Queries.Personas.GetPersonaById {
 		Personal.Domain.Model.Personal.Personal objPersona = null;//await _personalRepository.FindByIdAsync(request.Id);
 
 		//result = new PersonalDto() {
+			
 		  //PersonalId = objPersona.Id,
 		  //Nombre = objPersona.NombreCompleto,
 		  //Tipo = objPersona.Tipo,
 		  //Tripulacion = objPersona.Tripulacion,
-		};
+		//};
 
 		//foreach (var item in objPersona.Regis)
 		//{

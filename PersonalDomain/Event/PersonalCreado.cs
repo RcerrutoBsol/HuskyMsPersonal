@@ -17,7 +17,7 @@ namespace Personal.Domain.Event {
 	public PersonalCreado(Guid idPersona, string nombreCompleto, int tipo, int tripulacion) : base(DateTime.Now) {
 	  IdPersona = idPersona;
 	  NombreCompleto = nombreCompleto;
-	  Tipo = Tipo;
+	  Tipo = 1;//Tipo;
 	  Tripulacion = tripulacion;
 	}
   }
